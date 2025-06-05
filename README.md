@@ -1,10 +1,22 @@
-<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola, Soy Matias Goncalves</h1>
- 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA5MnVkcTk5bWx0d2htZnpzaGJxdDFlMHB5OTg5b3dwNGgweXozcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sMaW02wUllmFi/giphy.gif" width ="300" height="300"> 
+<table>
+  <tr>
+    <td>
+      <h1>👋 Hola, Soy Matias Goncalves</h1>
+      <p><strong>Estudiante Universitario / Programador</strong></p>
+      <p>- 🎓 Estudiando Tecnicatura Universitaria en Programacion.</p>
+      <p>- 🛠️ Actualmente aprendiendo: JAVA, SQL</p>
+      <p>  - 🤝 Me encanta colaborar en proyectos open source.</p>
+      <p>  - 💬 Preguntame cualquier cosa, ¡estoy feliz de ayudar! </p>
+      <p>  - 🎮 Fan de los videojuegos y la música. </p>
+</p>
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA5MnVkcTk5bWx0d2htZnpzaGJxdDFlMHB5OTg5b3dwNGgweXozcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sMaW02wUllmFi/giphy.gif" width="250" height="250">
+    </td>
+  </tr>
+</table>
 
-Estudiante Universitario/Programador
-<p></p>
-⚡Desarrollador backend por naturaleza, pero con un ojo curioso para el frontend, siempre buscando aprender y expandir mis habilidades..<br>
+
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
