@@ -3,11 +3,12 @@
     <td>
       <h1>👋 Hola, Soy Matias Goncalves</h1>
       <p><strong>Estudiante Universitario / Programador</strong></p>
-      <p>- 🎓 Estudiando Tecnicatura Universitaria en Programacion.</p>
-      <p>- 🛠️ Actualmente aprendiendo: JAVA, SQL</p>
+      <p>  - 🛠️ Actualmente aprendiendo: JAVA, SQL</p>
+      <p>  - 🎓 Estudiando Tecnicatura Universitaria en Programacion.</p>
       <p>  - 🤝 Me encanta colaborar en proyectos open source.</p>
       <p>  - 💬 Preguntame cualquier cosa, ¡estoy feliz de ayudar! </p>
       <p>  - 🎮 Fan de los videojuegos y la música. </p>
+      <p>  - 📫 Contactame en: matiasgoncalves2004@gmail.com</p>
 </p>
     </td>
     <td>
