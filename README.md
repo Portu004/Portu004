@@ -27,10 +27,10 @@
     [![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,html,css&perline=5)](https://skillicons.dev)
 
 - ## Frameworks
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap&perline=1)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=bootstrap,express&perline=1)](https://skillicons.dev)
 
 - ## Databases     
-    [![My Skills](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,php&perline=1)](https://skillicons.dev)
     
     
 
