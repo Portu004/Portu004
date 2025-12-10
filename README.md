@@ -27,10 +27,10 @@
     [![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,html,css&perline=6)](https://skillicons.dev)
 
 - ## Frameworks
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap,express&perline=1)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=bootstrap,express&perline=2)](https://skillicons.dev)
 
 - ## Databases     
-    [![My Skills](https://skillicons.dev/icons?i=mysql,php&perline=1)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,php&perline=2)](https://skillicons.dev)
     
     
 
@@ -39,7 +39,7 @@
 
 
 - ## IDEs & Tools
-    [![My Skills](https://skillicons.dev/icons?i=vscode,debian,discord,linux,npm,windows&perline=5)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vscode,debian,discord,linux,npm,windows&perline=6)](https://skillicons.dev)
     
 
 \* Metodologias Agiles : (UML).
