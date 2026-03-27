@@ -3,7 +3,7 @@
     <td>
       <h1>👋 Hola, Soy Matias Goncalves</h1>
       <p><strong>Estudiante Universitario / Programador</strong></p>
-      <p>  - 🛠️ Actualmente aprendiendo: JavaScript</p>
+      <p>  - 🛠️ Actualmente aprendiendo: MongoDB</p>
       <p>  - 🎓 Estudiando Tecnicatura Universitaria en Programacion.</p>
       <p>  - 🤝 Me encanta colaborar en proyectos open source.</p>
       <p>  - 💬 Preguntame cualquier cosa, ¡estoy feliz de ayudar! </p>
