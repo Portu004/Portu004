@@ -24,13 +24,13 @@
 
 
 - ## Languages
-    [![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,html,css&perline=6)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,python,js,php,nodejs,html,css&perline=6)](https://skillicons.dev)
 
 - ## Frameworks
     [![My Skills](https://skillicons.dev/icons?i=bootstrap,express&perline=2)](https://skillicons.dev)
 
 - ## Databases     
-    [![My Skills](https://skillicons.dev/icons?i=mysql,php&perline=2)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=2)](https://skillicons.dev)
     
     
 
