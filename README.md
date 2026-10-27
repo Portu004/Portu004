@@ -19,7 +19,7 @@ Transformo ideas complejas en código limpio y funcional. Disfruto tanto diseña
 | :--- | :--- | :--- |
 | **🎬 Sistema de Gestión de Cine - AUDAX** | Plataforma integral para la gestión de ventas de entradas, Candy Bar y administración de un establecimiento de cine. | `Angular` `Supabase` `Typescript` `Node.js`<br>[🔗 Repositorio](https://github.com/Portu004/Sistema-Cine-Audax) |
 | **🍷 Cepa** | App móvil para la gestión de un salón gastronómico: ingreso de clientes, mesas, pedidos y atención en tiempo real. | `Angular` `Ionic` `Supabase`<br>[🔗 Repositorio](https://github.com/nmacri9/Macri-2026) |
-| **🔐 Gestor de Contraseñas Seguro** | API REST que genera contraseñas seguras de forma automática y las almacena de manera encriptada en una base de datos.| `Node.js` `Express.js` `SQLite` `Docker`<br>[🔗 Repositorio](https://github.com/Portu004) |
+| **🔐 Gestor de Contraseñas Seguro** | API REST que genera contraseñas seguras de forma automática y las almacena de manera encriptada en una base de datos.| `Node.js` `Express.js` `SQLite` `Docker`<br>[🔗 Repositorio](https://github.com/Portu004/Api-generador-passwords) |
 
 </div>
 
