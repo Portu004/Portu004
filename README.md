@@ -4,8 +4,12 @@
 Transformo ideas complejas en código limpio y funcional. Disfruto tanto diseñando APIs robustas en el backend como creando interfaces dinámicas en el frontend.
 
 # 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-goncalvess/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matiasgoncalves2004@gmail.com) 
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-goncalvess/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasgoncalves2004@gmail.com)
 
+</div>
 
 ## 🚀 Proyectos Destacados
 
